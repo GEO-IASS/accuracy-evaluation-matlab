@@ -8,11 +8,11 @@ A MATLAB implementation for calculating accuracy metrics (Accuracy, Error Rate, 
 
 ```matlab
 
-	targets = 
+	targets =
 	    [1, 1, 0, 0, 0, 0;
 	    0, 0, 1, 1, 0, 0;
 	    0, 0, 0, 0, 1, 1];
-	outputs = 
+	outputs =
 	    [0.1, 0.86, 0.2, 0.1, .02, 0.1;
 	    0.4, 0.12, 0.768, 0.145, 0.1, 0.8;
 	    0.454, 0.35, 0.21, 0.0, 0.89, 0.9999];
@@ -99,5 +99,5 @@ Accuracy Evaluation Results
         Fscore (Macro)(%)            : 91.58
 # Note
 For Java Implementation, visit [accuracy-evaluation-java](https://github.com/ashokpant/accuracy-evaluation-java.git)
-For CPP Implementation, visit [accuracy-evaluation-java](https://github.com/ashokpant/accuracy-evaluation-cpp.git)
+For CPP Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-cpp.git)
 
