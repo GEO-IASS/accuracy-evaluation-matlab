@@ -1,6 +1,6 @@
 # Accuracy evaluation
 A MATLAB implementation for calculating accuracy metrics (Accuracy, Error Rate, Precision(micro/macro), Recall(micro/macro), Fscore(micro/macro)) for
- classification tasks based on paper [A systematic analysis of performance measures for classification tasks]
+ classification tasks based on the paper [A systematic analysis of performance measures for classification tasks]
  (http://www.sciencedirect.com/science/article/pii/S0306457309000259) and MATLAB confusion implementation.
 
 
@@ -100,5 +100,6 @@ Accuracy Evaluation Results
 # Note
 
 For Java Implementation, visit [accuracy-evaluation-java](https://github.com/ashokpant/accuracy-evaluation-java.git).
+
 For CPP Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-cpp.git).
 
