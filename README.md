@@ -70,8 +70,8 @@ A MATLAB implementation for calculating accuracy metrics (Accuracy, Error Rate, 
 	fprintf('\tFscore (Macro)(%%)            : %0.2f\n', eval.fscoreMacro)
 ```
 
-Output
---
+#Output
+
 Confusion Results
 
     Confusion value = 0.17
@@ -98,6 +98,7 @@ Accuracy Evaluation Results
         Recall (Macro)(%)            : 94.44
         Fscore (Macro)(%)            : 91.58
 # Note
-For Java Implementation, visit [accuracy-evaluation-java](https://github.com/ashokpant/accuracy-evaluation-java.git)
-For CPP Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-cpp.git)
+
+For Java Implementation, visit [accuracy-evaluation-java](https://github.com/ashokpant/accuracy-evaluation-java.git).
+For CPP Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-cpp.git).
 
