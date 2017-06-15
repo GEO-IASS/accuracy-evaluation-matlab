@@ -67,7 +67,8 @@ fprintf('\tRecall (Macro)(%%)            : %0.2f\n', eval.recallMacro)
 fprintf('\tFscore (Macro)(%%)            : %0.2f\n', eval.fscoreMacro)
 ```
 
-#Output
+# Outputs
+
 Confusion Results
 
     Confusion value = 0.17
