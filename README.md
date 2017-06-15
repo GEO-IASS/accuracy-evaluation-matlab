@@ -100,5 +100,5 @@ For Java Implementation, visit [accuracy-evaluation-java](https://github.com/ash
 
 For CPP Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-cpp.git).
 
-For Scala Implementation, visit [accuracy-evaluation-cpp](https://github.com/ashokpant/accuracy-evaluation-scala.git).
+For Scala Implementation, visit [accuracy-evaluation-scala](https://github.com/ashokpant/accuracy-evaluation-scala.git).
 
