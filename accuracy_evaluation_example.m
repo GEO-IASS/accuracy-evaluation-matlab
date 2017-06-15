@@ -10,7 +10,7 @@ outputs = [0.1, 0.86, 0.2, 0.1, .02, 0.1;
 eval = evaluation(targets,outputs);
 
 fprintf('%s\n','Confusion Results');
-fprintf('\tConfusion value = %0.2f\n', eval.confusion.c);
+fprintf('Confusion value = %0.2f\n', eval.confusion.c);
 
 fprintf('%s\n','Confusion Matrix');
 for row = 1:size(eval.confusion.cm,1)
